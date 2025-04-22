@@ -4,3 +4,8 @@ print("even numbers are:")
 for num in members:
     if num%2==0:
         print(num)
+
+print("odd numbers are:")
+for num in members:
+    if num%2!=0:
+        print(num)
